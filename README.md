@@ -1,2 +1,2 @@
 # Intrusion_Detection_HC-DTTSVM
-This code implementation is not part of the research article itself
+This code implementation is not part of the research article itself; rather, it represents an application inspired by the findings of the research article titled 'HC-DTTSVM: A Network Intrusion Detection Method Based on Decision Tree Twin Support Vector Machine and Hierarchical Clustering.' For further details, you can refer to the original research article available at https://ieeexplore.ieee.org/document/10057402
